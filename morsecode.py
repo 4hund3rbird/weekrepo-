@@ -1,4 +1,4 @@
-# Python program to implement Morse Code Translator
+# Python program to implement Morse Code Translator.
 
 '''
 VARIABLE KEY
